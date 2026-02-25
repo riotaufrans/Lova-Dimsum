@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lova Dimsum</title>
+  <meta charset="UTF-8">
+  <style>
+    body {font-family: Arial; text-align:center; background:#fff5f5;}
+    h1 {color:#d62828;}
+    p {color:#444;}
+    .btn {background:#d62828; color:white; padding:10px 20px; border:none; border-radius:8px;}
+  </style>
+</head>
+<body>
+  <h1>Lova Dimsum</h1>
+  <p>Dimsum Ayam Lezat & Berkualitas</p>
+  <button class="btn">Pesan Sekarang</button>
+</body>
+</html>
